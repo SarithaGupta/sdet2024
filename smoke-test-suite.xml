@@ -1,0 +1,14 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--<suite name="All Test Suite">-->
+<!--    <listeners>-->
+<!--        <listener class-name="com.saucelabs.common.utils.reporting.TestNGListenersUtil"></listener>-->
+<!--    </listeners>-->
+<!--    <test verbose="2" preserve-order="true"-->
+<!--          name="C:/Selenium Learning/SampleFramework_Saritha/TestCases/src/test/java/com/saucelabs/tests/APIs/List_Users_API_Test.java">-->
+<!--        <classes>-->
+<!--         <class name="com.saucelabs.tests.APIs.List_Users_API_Test"/>-->
+
+<!--        </classes>-->
+<!--    </test>-->
+<!--</suite>-->
