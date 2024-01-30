@@ -8,6 +8,7 @@ public class LoginTest extends LoginBaseTest {
 /*
 --->Except testcases we added all our code under sr/main/java only.
  */
+    //simple login test
     @Test(priority = 1,description = "Login to Saucelab")
     public void loginToSaucelabTest() throws InterruptedException {
         System.out.println("Saucelabs login test execution started...!");
